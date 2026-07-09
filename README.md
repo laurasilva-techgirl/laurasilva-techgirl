@@ -1,5 +1,3 @@
-# Laura Silva | Tech Girl ✨
-
 # Olá, boas-vindas ao meu perfil! 👋
 
 ### 👩‍💻 Sobre Mim
@@ -13,11 +11,9 @@ Sou desenvolvedora focada na área de tecnologia e programação, trabalhando ta
 
 ### 🛠️ Tecnologias e Linguagens
 
-<div id="badges">
-  <img src="https://shields.io" alt="Java Badge"/>
-  <img src="https://shields.io" alt="JavaScript Badge"/>
-  <img src="https://shields.io" alt="HTML5 Badge"/>
-</div>
+- ☕ **Java**
+- 🟨 **JavaScript**
+- 🌐 **HTML5**
 
 ---
 
@@ -42,3 +38,4 @@ O principal propósito deste perfil é centralizar a minha evolução técnica e
 <p align="center">
   <b>✨ Obrigada pela visita e fique por aqui! ✨</b>
 </p>
+

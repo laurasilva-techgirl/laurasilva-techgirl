@@ -3,7 +3,7 @@
 ### 👩‍💻 Sobre Mim
 Sou desenvolvedora focada na área de tecnologia e programação, trabalhando tanto com soluções em back-end quanto com a criação de interfaces no front-end.
 
-- 🚀 Atualmente desenvolvendo projetos com: **Java**, **JavaScript** e **HTML**.
+- 🚀 Atualmente desenvolvendo projetos com: **Java**, **JavaScript** .
 - 🛠️ Buscando sempre escrever código limpo, eficiente e focar na estrutura do software.
 - 💬 Pergunte-me sobre: Desenvolvimento de software e o que estou aprendendo no momento.
 
@@ -13,7 +13,6 @@ Sou desenvolvedora focada na área de tecnologia e programação, trabalhando ta
 
 - ☕ **Java**
 - 🟨 **JavaScript**
-- 🌐 **HTML5**
 
 ---
 
